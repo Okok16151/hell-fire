@@ -1,0 +1,39 @@
+{
+	"storyName": "Hellfire Hymns",
+	"hideFreeplay": false,
+	"weekBackground": "hades",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"abe",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Hades",
+			"abe",
+			[
+				255,
+				59,
+				59
+			]
+		],
+		[
+			"Infernal",
+			"abe",
+			[
+				255,
+				59,
+				59
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "HellfireHymns"
+}
