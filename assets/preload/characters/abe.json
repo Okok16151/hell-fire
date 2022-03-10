@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-138
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-119
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-98
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-117
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-43,
+				-117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-87
+			],
+			"anim": "phase change",
+			"fps": 24,
+			"name": "phase change",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-43,
+				-98
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				10002,
+				10003,
+				10004
+			],
+			"name": "up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-39,
+				-119
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				10003,
+				10004,
+				10005
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-43,
+				-110
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				10002,
+				10003,
+				10004
+			]
+		},
+		{
+			"offsets": [
+				-43,
+				-117
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10012,
+				10013
+			],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/abe",
+	"position": [
+		20,
+		-100
+	],
+	"healthicon": "abe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		59,
+		59
+	],
+	"camera_position": [
+		30,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
